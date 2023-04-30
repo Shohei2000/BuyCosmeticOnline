@@ -9,7 +9,14 @@
 【アピールポイント】
 初のWebサイト制作。ユニバーサルデザインにて、利用しやすいサイトを意識して作成しました。
 また、細部まで機能を盛り込んだため公開されているサイトに劣らない内容になっています。
-添付写真は、発表に用いたプレゼン資料です。
+
+![buycosmetic01](https://user-images.githubusercontent.com/77315803/235356257-74b1f836-9111-4c49-90cb-f9424dbe8999.png)
+
+![buycosmetic02](https://user-images.githubusercontent.com/77315803/235356260-23a0f8d7-f4ac-427c-95bf-e31704ac86a5.png)
+
+![buycosmetic03](https://user-images.githubusercontent.com/77315803/235356261-4e4e7f41-3565-43da-80b8-e4b071c0b400.png)
+
+■下記は、発表に用いたプレゼン資料です。
 
 <img width="497" alt="image" src="https://user-images.githubusercontent.com/77315803/235353384-05354816-a222-4d6c-a27b-3c2055b60a3e.png">
 
@@ -40,3 +47,5 @@
 <img width="497" alt="image" src="https://user-images.githubusercontent.com/77315803/235353488-c6cc7970-0f9b-40f8-aab3-af660aed9aea.png">
 
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/77315803/235353494-7f7d71d2-e764-46fe-9795-c9b99c71756e.png">
+
+
