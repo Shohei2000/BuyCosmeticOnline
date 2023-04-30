@@ -1,0 +1,39 @@
+/* ボタンCSS開始 */
+    .button {
+      display: inline-block;
+      width: 100%;
+      height:auto;
+      font-size:1vw;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      margin-left:1vw;
+    }
+    .button::before,
+    .button::after {
+      position: absolute;
+      z-index: -1;
+      display: block;
+      content: '';
+    }
+    .button,
+    .button::before,
+    .button::after {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      -webkit-transition: all .3s;
+      transition: all .3s;
+    }
+    .button {
+      background-color: #333;
+      border: 1px solid #333;
+      color: #fff;
+      line-height: 2vw;
+    }
+    .button:hover {
+      background-color: #fff;
+      border-color: #59b1eb;
+      color: #59b1eb;
+    }
+/*ボタンCSS終了*/
